@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e206bd17a9840d4ab82743fe175614a, type: 3}
+  m_Name: Type Resources
+  m_EditorClassIdentifier: 
+  shapeRes:
+  - type: 0
+    res: {fileID: 967801756843342740, guid: 462a5f23dde4ff54582a2abe8cf68fbe, type: 3}
+  - type: 1
+    res: {fileID: 8910532234888749357, guid: 04f64309b59133a488ed7d6608178f32, type: 3}
+  - type: 2
+    res: {fileID: 7759846480137734240, guid: 808d5d2ff3e6b254bb2353367d36339b, type: 3}
+  animalRes:
+  - type: 0
+    res: {fileID: -1319315252296537693, guid: ce171ce8a14023445a01677009ae7207, type: 3}
+  - type: 1
+    res: {fileID: 6284572508141158567, guid: ce171ce8a14023445a01677009ae7207, type: 3}
+  - type: 2
+    res: {fileID: 8133266208652056809, guid: ce171ce8a14023445a01677009ae7207, type: 3}
+  colorlRes:
+  - type: 0
+    res: {r: 1, g: 0.28235295, b: 0.28235295, a: 1}
+  - type: 1
+    res: {r: 0.5254902, g: 1, b: 0.45490196, a: 1}
+  - type: 2
+    res: {r: 0.30588236, g: 0.8039216, b: 1, a: 1}
